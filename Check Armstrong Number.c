@@ -17,7 +17,7 @@ main ()
   orinum = num;
   while (num != 0)
     {
-      remain = num % 10;
+      remain = num % 10; //we get the last digit of the number that is remainder.
       result += remain * remain * remain;
       num /= 10;
     }
