@@ -18,5 +18,5 @@ int main()
     return 0;
 }
 float avg(int a, int b, int c){
-    return (a + b + c)/3;
+    return (float)(a + b + c)/3;
 }
