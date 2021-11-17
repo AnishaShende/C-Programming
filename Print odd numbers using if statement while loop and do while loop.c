@@ -11,3 +11,17 @@ int main()
     }
     return 0;
 }
+//do{
+    //   printf("%d ", num);
+    //   num ++;
+    //   if (num == 100){
+    //       break;
+    //   }
+    // }
+    // while(num % 2 != 0);
+//while(num % 2 != 0) {
+    //     printf("%d ", num);
+    //     num ++;
+    //     // if (num == 100)
+    //     // break;
+    // }
