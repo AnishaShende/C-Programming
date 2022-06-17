@@ -20,7 +20,7 @@ main ()
     {
       if (search == a[i])
 	{
-	  printf ("%d element is present at %d location.\n", search, i);
+	  printf ("%d element is present at %d location.\n", search, i+1);
 	  break;
 	}
     }
